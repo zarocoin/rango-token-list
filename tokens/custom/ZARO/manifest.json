@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Zaro Coin",
+    "symbol": "ZARO",
+    "address": "0xc311FD6DA9686507F33991543d8158EF5FaDd5E7",
+    "chainId": 1,
+    "decimals": 18
+  },
+  {
+    "name": "Zaro Coin",
+    "symbol": "ZARO",
+    "address": "0xa9D72F6C1490647DF20E8Fad3C136cA6AC42c2fc",
+    "chainId": 56,
+    "decimals": 18
+  },
+  {
+    "name": "Zaro Coin",
+    "symbol": "ZARO",
+    "address": "AbzXS6NfGvCtg5B1rqZ1JSfoDHkwTAeEYJkWkHhCe38W",
+    "chainId": 101,
+    "decimals": 8
+  }
+]
